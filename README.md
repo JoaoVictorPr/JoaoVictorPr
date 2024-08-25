@@ -6,6 +6,7 @@
 [![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/joaovictor.pr)
 
 ![João Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovictorpr&show_icons=true&theme=onedark)
+![Top Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorpr&layout=compact)
 
 ## Tecnologias que eu uso no meu dia a dia
 
